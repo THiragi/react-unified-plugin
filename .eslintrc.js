@@ -66,6 +66,7 @@ module.exports = {
         varsIgnorePattern: '_',
       },
     ],
+    'import/no-unresolved': 'off',
     'import/extensions': [
       'error',
       'ignorePackages',
